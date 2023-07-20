@@ -1,5 +1,3 @@
-'''script en Python que calcule las raices de una ecuación cuadrática. El usuario debe ingresar los términos a, b, c
-y el programa deberá calcular las raíces con la fórmula general y mostrar el valor de ambas raíces'''
 
 
 print('Ingrese los coeficientes de la ecuacion de izquierda a derecha: ')
